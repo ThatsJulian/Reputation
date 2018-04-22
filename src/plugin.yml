@@ -1,0 +1,6 @@
+name: Reputation
+version: 1.0
+main: repo.binarydctr.Core
+commands:
+    reputation:
+        description: Main command for Reputation plugin.
